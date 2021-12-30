@@ -26,5 +26,4 @@ public class FunçõesString {
 		System.out.println("Last index of 'bc': " + j);
 
 	}
-
 }
